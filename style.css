@@ -1,0 +1,43 @@
+body{
+  background-color: silver;
+  color: black;
+}
+
+*{
+  font-family: verdana
+}
+
+h1{
+  color: purple;
+  text-align: center
+}
+
+fieldset{
+  width: 60%;
+  margin: 0 auto;
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 2px 2px 2px gray;
+}
+
+label{
+  font-weight: bold;
+  padding: 50px
+}
+
+input{
+  border-radius: 4px;
+  padding: 5px;
+  margin:5px
+}
+
+
+.enviar{
+  background-color: green;
+  color: white;
+}
+
+.limpar{
+  background-color: red;
+  color: white;
+}
